@@ -1,6 +1,6 @@
 # npmtest-socket.io
 
-#### test coverage for  [socket.io (v1.7.3)](https://github.com/socketio/socket.io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-socket.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-socket.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-socket.io.svg)](https://travis-ci.org/npmtest/node-npmtest-socket.io)
+#### basic test coverage for  [socket.io (v1.7.3)](https://github.com/socketio/socket.io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-socket.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-socket.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-socket.io.svg)](https://travis-ci.org/npmtest/node-npmtest-socket.io)
 
 #### node.js realtime framework server
 
